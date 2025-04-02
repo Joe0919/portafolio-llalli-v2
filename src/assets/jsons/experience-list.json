@@ -1,0 +1,30 @@
+[
+  {
+
+    "id": 1,
+    "company": "Telecomunicaciones Piero’s SAC",
+    "endDate": "Marzo 2025",
+    "initialDate": "Octubre 2024",
+    "showTime": true,
+    "position": "Auxiliar Técnico de Telecomunicaciones",
+    "duration": "5 meses"
+  },
+  {
+    "id": 2,
+    "company": "Hospital Antonio Caldas Dominguez",
+    "endDate": "Mayo 2022",
+    "initialDate": "Febrero 2022",
+    "showTime": true,
+    "position": "Desarrollador de Software Fullstack",
+    "duration": "4 meses"
+  },
+  {
+    "id": 3,
+    "company": "Consultoría y Construcción RJ SAC",
+    "endDate": "Abril 2019",
+    "initialDate": "Enero 2019",
+    "showTime": true,
+    "position": "Asistente Técnico en Informática",
+    "duration": "4 meses"
+  }
+]

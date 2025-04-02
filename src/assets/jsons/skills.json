@@ -1,0 +1,72 @@
+[
+  {
+    "label": "Html",
+    "img": "/icons/html.svg",
+    "alt": "Html logotype"
+  },
+  {
+    "label": "Css",
+    "img": "/icons/css.svg",
+    "alt": "Css logotype"
+  },
+  {
+    "label": "Bootstrap",
+    "img": "/icons/bootstrap.svg",
+    "alt": "Bootstrap logotype"
+  },
+  {
+    "label": "Tailwind",
+    "img": "/icons/tailwind.svg",
+    "alt": "Tailwind logotype"
+  },
+  {
+    "label": "Sass",
+    "img": "/icons/sass.svg",
+    "alt": "Sass logotype"
+  },
+  {
+    "label": "Javascript",
+    "img": "/icons/javascript.svg",
+    "alt": "Javascript logotype"
+  },
+  {
+    "label": "React",
+    "img": "/icons/react.svg",
+    "alt": "React logotype"
+  },
+  {
+    "label": "Php",
+    "img": "/icons/php.svg",
+    "alt": "Php logotype"
+  },
+  {
+    "label": "Laravel",
+    "img": "/icons/laravel.svg",
+    "alt": "Laravel logotype"
+  },
+  {
+    "label": "Java",
+    "img": "/icons/java.svg",
+    "alt": "Java logotype"
+  },
+  {
+    "label": "Git",
+    "img": "/icons/git.svg",
+    "alt": "Git logotype"
+  },
+  {
+    "label": "Python",
+    "img": "/icons/python.svg",
+    "alt": "Python logotype"
+  },
+  {
+    "label": "MySql",
+    "img": "/icons/mysql.svg",
+    "alt": "MySql logotype"
+  },
+  {
+    "label": "SQL Server",
+    "img": "/icons/sqlserver.svg",
+    "alt": "SQL Server logotype"
+  }
+]

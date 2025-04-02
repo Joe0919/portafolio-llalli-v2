@@ -1,0 +1,110 @@
+:root {
+  --primary-color: #032b43;
+  --secondary-color: #222222;
+  --accent-color: #054a91;
+  --background-secondary: #1a1a1a;
+
+  --header-color: var(--primary-color);
+  --background-color: var(--secondary-color);
+
+  --text-primary: #fff;
+  --text-secondary: #000;
+  --text-gray: #c4c2c2;
+
+  --button-default: #ffffff;
+  --button-primary: #054a91;
+  --button-primary-text: white;
+  --button-secondary: #4b4a4a;
+  --button-pink: #c13584;
+  --button-blue: #0077b5;
+  --button-white: #fff;
+
+  --button-gray: #616161;
+  --button-dark: #1a1a1a;
+
+  --box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3);
+}
+
+* {
+  box-sizing: border-box;
+  font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont,
+    Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif;
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  font-size: 17.5px;
+}
+
+html{
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: var(--background-secondary);
+  color: var(--text-primary);
+}
+
+.bg-primary-general {
+  background-color: var(--primary-color);
+}
+.bg-secondary-general {
+  background-color: var(--primary-color);
+}
+.bg-accent-general {
+  background-color: var(--accent-color);
+}
+
+.bg-primary {
+  background-color: var(--button-primary) !important;
+  color: var(--button-primary-text) !important;
+}
+.bg-secondary {
+  background-color: var(--button-secondary) !important;
+  color: var(--button-primary-text) !important;
+}
+.bg-pink {
+  background-color: var(--button-pink) !important;
+  color: var(--button-primary-text) !important;
+}
+.bg-blue {
+  background-color: var(--button-blue) !important;
+  color: var(--button-primary-text) !important;
+}
+.bg-gray {
+  background-color: var(--button-gray) !important;
+  color: var(--button-primary-text) !important;
+}
+.bg-dark {
+  background-color: var(--button-dark) !important;
+  color: var(--button-primary-text) !important;
+}
+.bg-gray:hover {
+  background-color: var(--button-secondary);
+}
+.bg-dark:hover {
+  background-color: var(--button-dark) !important;
+  color: var(--button-primary-text) !important;
+}
+
+.my-3 {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+.content {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+
+.text-bold {
+  font-weight: bold;
+}
+
+.curved {
+  position: relative;
+  background: red;
+  height: 50vh;
+  border-bottom-left-radius: 50% 20%;
+  border-bottom-right-radius: 50% 20%;
+}

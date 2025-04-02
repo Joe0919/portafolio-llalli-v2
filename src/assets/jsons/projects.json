@@ -1,0 +1,65 @@
+[
+  {
+    "alt": "Desktop preview for Mesa de Partes Virtual V.2 project",
+    "description": "Aplicación optimizada para el manejo de cualquier documentación de manera virtual para la presentación, revision y gestión de tramites, se añadió seguimiento de tramites.",
+    "repo": "https://github.com/Joe0919/mesa-partes-v2",
+    "src": "/img/mesa-partes-v2.png",
+    "technologies": ["Bootstrap","JavaScript", "Jquery",  "PHP", "Mysql"],
+    "title": "Mesa de Partes Virtual V.2",
+    "url": ""
+  },
+  {
+    "alt": "Desktop preview for EducaWeb project",
+    "description": "Aplicativo web que permite la visualizacíon de videos educativos. Además, permite la gestion de categorias de videos y la carga de videos públicos.",
+    "repo": "https://github.com/Joe0919/EducaWeb",
+    "src": "/img/Proyect-educaWeb.png",
+    "technologies": ["React", "JavaScript"],
+    "title": "EducaWeb",
+    "url": "https://educa-web.vercel.app/"
+  },
+  {
+    "alt": "Desktop preview for Ecommerce Geks project",
+    "description": "Sistema de eComerce que ofrece la venta de productos, ademas de inicio de sesión y gestión de los productos. Desarrollado con HTML, CSS y Javascript con JSON SERVE.",
+    "repo": "https://github.com/Joe0919/ecommerce-geek",
+    "src": "/img/proyect-ecommerce.png",
+    "technologies": ["HTML", "CSS", "JavaScript"],
+    "title": "Ecommerce Geks",
+    "url": "https://joe0919.github.io/ecommerce-geek/"
+  },
+  {
+    "alt": "Desktop preview for TextEncrypter project",
+    "description": "Te permite encriptar y descifrar texto de manera segura y sencilla. Utilizando algoritmos de encriptación confiables. Tu información estará segura con nosotros.",
+    "repo": "https://github.com/Joe0919/Encriptador-de-texto",
+    "src": "/img/proyect_encript.png",
+    "technologies": ["HTML", "CSS", "JavaScript"],
+    "title": "TextEncrypter",
+    "url": "https://joe0919.github.io/Encriptador-de-texto/"
+  },
+  {
+    "alt": "Desktop preview for Sistema de Atención Hospitalaria project",
+    "description": "Sistema que permite la gestión de citas y atención hospitalaria de cada paciente, emite tambien comporbantes y recetas médicas teniendo en cuenta distintas medicaciones.",
+    "repo": "https://github.com/Joe0919/Sistema_atencion-hospital",
+    "src": "/img/proyect-sistemaHospitalario.png",
+    "technologies": ["Bootstrap","JavaScript", "Jquery",  "PHP", "Mysql"],
+    "title": "Sistema de Atención Hospitalaria",
+    "url": ""
+  },
+  {
+    "alt": "Desktop preview for Sistema de Mesa de Partes Virtual project",
+    "description": "Aplicación optimizada para el manejo de cualquier documentación de manera virtual para la presentación, revision y gestión de tramites.",
+    "repo": "https://github.com/Joe0919/Mesa-de-Partes",
+    "src": "/img/proyect-MesaPartes.png",
+    "technologies": ["Bootstrap","JavaScript", "Jquery",  "PHP", "Mysql"],
+    "title": "Sistema de Mesa de Partes Virtual",
+    "url": ""
+  },
+  {
+    "alt": "Desktop preview for Sistema de Reserva Hotelera",
+    "description": "Aplicativo de Escritorio para la gestion de reservas de hoteles y la atención con respectiva generacion de comprobantes y ventas adicionales.",
+    "repo": "https://github.com/Joe0919/reserva-hotel",
+    "src": "/img/proyect-reservas.png",
+    "technologies": ["Java"],
+    "title": "Sistema de Reserva Hotel",
+    "url": ""
+  }
+]

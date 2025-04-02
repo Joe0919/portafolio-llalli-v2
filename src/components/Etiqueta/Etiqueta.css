@@ -1,0 +1,21 @@
+.etiqueta {
+  display: flex;
+  align-items: center;
+  box-sizing: border-box;
+  padding: 0.3rem 0.5rem;
+  text-decoration: none;
+  border-radius: 12px;
+  text-align: center;
+  border: none;
+  gap: 5px;
+  background-color: var(--text-primary);
+  color: var(--text-secondary);
+  transition: all 0.3s;
+  width: auto;
+  font-weight: 600;
+  cursor: default;
+}
+
+.etiqueta-icon {
+  font-size: 19px;
+}

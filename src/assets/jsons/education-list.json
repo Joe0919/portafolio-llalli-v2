@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "initialDate": "Junio 2024",
+    "endDate": "Julio 2024",
+    "hours": "8 horas",
+    "institute": "Lima Educa - Perú Digital",
+    "title": "Soporte remoto de Computadoras",
+    "category": "Constancia",
+    "href": "/docs/constancia-soporte.pdf"
+  },
+  {
+    "id": 2,
+    "initialDate": "Junio 2024",
+    "endDate": "Junio 2024",
+    "hours": "8 horas",
+    "institute": "Lima Educa - Perú Digital",
+    "title": "Power BI",
+    "category": "Constancia",
+    "href": "/docs/constancia-powerbi.pdf"
+  },
+  {
+    "id": 3,
+    "initialDate": "Mayo 2024",
+    "endDate": "Junio 2024",
+    "hours": "12 horas",
+    "institute": "Lima Educa - Perú Digital",
+    "title": "Tablas Dinámicas, Dashboard, Macros en Excel",
+    "category": "Constancia",
+    "href": "/docs/constancia-excel.pdf"
+  },
+  {
+    "id": 4,
+    "initialDate": "Enero 2024",
+    "endDate": "Febrero 2024",
+    "hours": "94 horas",
+    "institute": "Oracle y Alura Latam",
+    "title": "Python, Data Science y Oracle Analytics",
+    "category": "Certificación",
+    "href": "/docs/certificado-python.pdf"
+  },
+  {
+    "id": 5,
+    "initialDate": "Agosto 2023",
+    "endDate": "Noviembre 2024",
+    "hours": "80 horas",
+    "institute": "Oracle y Alura Latam",
+    "title": "SQL con MySQL y SQL Server",
+    "category": "Certificación",
+    "href": "/docs/certificado-sql.pdf"
+  },
+  {
+    "id": 6,
+    "initialDate": "Julio 2023",
+    "endDate": "Setiembre 2023",
+    "hours": "68 horas",
+    "institute": "Oracle y Alura Latam",
+    "title": "Frontend con React",
+    "category": "Certificación",
+    "href": "/docs/certificado-react.pdf"
+  },
+  {
+    "id": 7,
+    "initialDate": "Abril 2023",
+    "endDate": "Junio 2023",
+    "hours": "77 horas",
+    "institute": "Oracle y Alura Latam",
+    "title": "Formacion en FrontEnd ",
+    "category": "Certificación",
+    "href": "/docs/certificado-frontend.pdf"
+  },
+  {
+    "id": 8,
+    "initialDate": "Abril 2023",
+    "endDate": "Junio 2023",
+    "hours": "100 horas",
+    "institute": "Oracle y Alura Latam",
+    "title": "Desarrollo Personal, Business Agility y Emprendimiento",
+    "category": "Certificación",
+    "href": "/docs/certificado-desarrollo.pdf"
+  },
+  {
+    "id": 9,
+    "initialDate": "Enero 2021",
+    "endDate": "Mayo 2021",
+    "hours": "5 meses",
+    "institute": "Centro de Idiomas - UNASAM",
+    "title": "Ingles Básico – Nivel A2",
+    "category": "Certificación",
+    "href": "/docs/certificado-ingles.pdf"
+  },
+  {
+    "id": 10,
+    "initialDate": "Abril 2017",
+    "endDate": "Junio 2022",
+    "hours": "10 ciclos",
+    "institute": "Universidad Nacional Santiago Antúnez de Mayolo, Ancash, Perú",
+    "title": "Ingeniería de Sistemas e Informática",
+    "category": "Bachiller",
+    "href": "/docs/bachiller.pdf"
+  }
+]
