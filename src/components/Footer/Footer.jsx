@@ -1,5 +1,7 @@
 import React from "react";
 import Button from "../Button/Button";
+
+import "./Footer.css";
 import {
   FaLinkedin,
   FaGithub,
@@ -9,23 +11,23 @@ import {
 
 const Footer = () => {
   return (
-    <header className="main-container">
-      <section className="container header bg-transparent">
+    <footer className="main-container">
+      <section className="container footer bg-transparent">
         <p>
           © Desarrollado por <b>Joel Llallihuaman</b> 💜
         </p>
         <div className="content">
           <Button
             className="bg-blue p-1"
-            onClick={() => window.open("https://github.com/Joe0919", "_blank")}
+            onClick={() =>
+              window.open("https://www.linkedin.com/in/joel-llalli", "_blank")
+            }
           >
             <FaLinkedin className="btn-icon" />
           </Button>
           <Button
             className="bg-secondary p-1"
-            onClick={() =>
-              window.open("https://www.linkedin.com/in/joel-llalli", "_blank")
-            }
+            onClick={() => window.open("https://github.com/Joe0919", "_blank")}
           >
             <FaGithub className="btn-icon" />
           </Button>
@@ -39,7 +41,7 @@ const Footer = () => {
           </Button>
         </div>
       </section>
-    </header>
+    </footer>
   );
 };
 

@@ -24,25 +24,25 @@ const Banner = () => {
           funcionales para mejorar la experiencia del usuario. Busco contribuir en la mejora continua con
           actitud positiva y proactiva.
         </p>
-        <div className="content">
+        <div className="content banner-buttons">
           <Button
-            className="bg-blue"
-            onClick={() => window.open("https://github.com/Joe0919", "_blank")}
+            className="bg-blue w-140"
+            onClick={() => window.open("https://www.linkedin.com/in/joel-llalli", "_blank")}
           >
             <FaLinkedin className="btn-icon" />
             Linkedin
           </Button>
           <Button
-            className="bg-secondary"
+            className="bg-secondary w-140"
             onClick={() =>
-              window.open("https://www.linkedin.com/in/joel-llalli", "_blank")
+              window.open("https://github.com/Joe0919", "_blank")
             }
           >
             <FaGithub className="btn-icon" />
             Github
           </Button>
           <Button
-            className="bg-pink"
+            className="bg-pink w-140"
             onClick={() =>
               window.open("https://www.instagram.com/jo3l_llalli/", "_blank")
             }
@@ -51,13 +51,13 @@ const Banner = () => {
             Instagram
           </Button>
           <Button
-            className="bg-primary px-3"
+            className="bg-primary px-3 w-140"
             onClick={() =>
               window.open("/docs/cv-joel-llallihuaman.pdf", "_blank")
             }
           >
             <FaRegFilePdf className="btn-icon" />
-            CV
+            Curriculum
           </Button>
         </div>
       </div>

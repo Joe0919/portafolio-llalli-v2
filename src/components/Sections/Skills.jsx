@@ -10,11 +10,10 @@ const Skills = () => {
         {skills.map((skill) => (
           <li key={skill.label} className="skills__list-item caja">
             <img
+              className="img-skill"
               src={skill.img}
               alt={skill.alt}
-              height="80"
               loading="lazy"
-              width="80"
             />
             <span>{skill.label}</span>
           </li>

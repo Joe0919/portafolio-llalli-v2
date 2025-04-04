@@ -10,22 +10,22 @@ const Header = () => {
         <img src="/img/logo1.png" className="header__logo" id="header__logo" />
         <nav className="header__nav content">
           <ul className="header__nav-list">
-            <li className="nav-list-item hidden">
+            <li className="nav-list-item">
               <a href="#sobre-mi" className="nav-list-link">
                 Sobre mi
               </a>
             </li>
-            <li className="nav-list-item hidden">
+            <li className="nav-list-item">
               <a href="#skills" className="nav-list-link">
                 Skills
               </a>
             </li>
-            <li className="nav-list-item hidden">
+            <li className="nav-list-item">
               <a href="#formacion" className="nav-list-link">
                 Formación
               </a>
             </li>
-            <li className="nav-list-item hidden">
+            <li className="nav-list-item">
               <a href="#proyectos" className="nav-list-link">
                 Proyectos
               </a>
@@ -36,18 +36,22 @@ const Header = () => {
               <Button
                 className="bg-blue"
                 onClick={() => {
-                    window.location.href = "mailto:joel09llalli@gmail.com";
-                }} title="joel09llalli@gmail.com"
+                  window.location.href = "mailto:joel09llalli@gmail.com";
+                }}
+                title="joel09llalli@gmail.com"
               >
                 <MdOutlineEmail className="btn-icon" />
-                Contacto
+                <span className="nav-span">Contacto</span>
               </Button>
               <Button
-                className="bg-primary px-3"
-                onClick={() => window.open("/docs/cv-joel-llallihuaman.pdf", "_blank")} title="Ver Curriculum"
-              >
+                className="bg-primary"
+                onClick={() =>
+                  window.open("/docs/cv-joel-llallihuaman.pdf", "_blank")
+                }
+                title="Ver Curriculum"
+                >
                 <FaRegFilePdf className="btn-icon" />
-                CV
+                <span className="nav-span">Curriculum</span>
               </Button>
             </div>
           </div>

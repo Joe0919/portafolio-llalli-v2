@@ -33,7 +33,7 @@ const Proyects = () => {
   return (
     <Container id="proyectos">
       <h1 className="title-principal education-title">Proyectos</h1>
-      <div className="content content-buttons">
+      <div className="content filter-buttons">
         <Button
           className={activeCategory === "Todo" ? "bg-gray active" : "bg-gray"}
           onClick={() => setActiveCategory("Todo")}
